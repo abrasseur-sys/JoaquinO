@@ -1,0 +1,14 @@
+body { 
+    background-color: rgb(228, 228, 228);
+    text-align: center;
+    font-family: Arial, sans-serif;
+    border: 25px solid rgb(0, 0, 0);
+    cursor: help;
+    .Factorizada {color: rgb(25, 0, 255); font-size: 24px;}
+    .Polinomica {color: rgb(255, 0, 0); font-size: 24px;}
+    .Formula {color: rgb(0, 0, 0); font-size: 24px;}
+    .Canonica {color: rgb(9, 255, 0); font-size: 24px;}
+    .Componentes {color: rgb(0, 0, 0); font-size: 24px;}
+    .Reglas {color: rgb(0, 0, 0); font-size: 24px;}
+    .Otros {color: rgb(0, 0, 0); font-size: 24px;}
+}
